@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @mayank1978
+- 👋 Hi, I’m @Joyboie [not my real name :)]
 - 👀 I’m interested in becoming data scientist 
 - 🌱 I’m currently learning python 
